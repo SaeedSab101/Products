@@ -1,0 +1,152 @@
+﻿[
+  {
+    "ProductName": "Switch",
+    "GraphicName": "Nintendo Switch",
+    "CostPrice": "379.99",
+    "MSRP": "379.99",
+    "QtyOnHand": "19",
+    "QtyOnBackOrder": "4",
+    "Description": "Nintendo Switch is designed to fit your life, transforming from home console to portable system in a snap.",
+    "Brand": "Nintendo"
+  },
+  {
+    "ProductName": "Joycons",
+    "GraphicName": "Nintendo Switch Joycons",
+    "CostPrice": "99.99",
+    "MSRP": "99.99",
+    "QtyOnHand": "6",
+    "QtyOnBackOrder": "1",
+    "Description": "Joy-Cons are the primary game controllers for the Nintendo Switch video game console. They consist of two individual units, each containing an analog stick and an array of buttons.",
+    "Brand": "Nintendo"
+  },
+  {
+    "ProductName": "Pro-Con",
+    "GraphicName": "Nintendo Switch Pro Controller",
+    "CostPrice": "89.99",
+    "MSRP": "89.99",
+    "QtyOnHand": "4",
+    "QtyOnBackOrder": "7",
+    "Description": "The Pro Controller features two analog control sticks, the traditional ABXY configuration, an eight-way directional Control Pad, and four shoulder buttons. There are also Home, Plus, Minus, and Capture buttons on the controller.",
+    "Brand": "Nintendo"
+  },
+  {
+    "ProductName": "Super Mario Odyssey",
+    "GraphicName": "Nintendo Switch - Super Mario Odyssey",
+    "CostPrice": "79.99",
+    "MSRP": "79.99",
+    "QtyOnHand": "3",
+    "QtyOnBackOrder": "2",
+    "Description": "Super Mario Odyssey is a 2017 action-adventure platform game developed and published by Nintendo for the Nintendo Switch video game console.",
+    "Brand": "Nintendo"
+  },
+  {
+    "ProductName": "Mario Kart 8 Deluxe",
+    "GraphicName": "Nintendo Switch - Mario Kart 8 Deluxe",
+    "CostPrice": "79.99",
+    "MSRP": "79.99",
+    "QtyOnHand": "1",
+    "QtyOnBackOrder": "6",
+    "Description": "Mario Kart 8 is a kart racing game developed and published by Nintendo, and first released for the Wii U in 2014. It retains Mario Kart series game mechanics, where players control Mario franchise characters in kart racing, collecting a variety of items to hinder opponents or gain advantages in the race.",
+    "Brand": "Nintendo"
+  },
+  {
+    "ProductName": "PS5",
+    "GraphicName": "Playstation 5",
+    "CostPrice": "629.99",
+    "MSRP": "629.99",
+    "QtyOnHand": "0",
+    "QtyOnBackOrder": "4",
+    "Description": "PlayStation®5: The PS5™ console unleashes new gaming possibilities that you never anticipated.",
+    "Brand": "Sony"
+  },
+  {
+    "ProductName": "DualSense 5 Controller",
+    "GraphicName": "PlayStation 5 DualSense Wireless Controller",
+    "CostPrice": "89.99",
+    "MSRP": "89.99",
+    "QtyOnHand": "3",
+    "QtyOnBackOrder": "2",
+    "Description": "The DualSense Wireless Controller is the controller for PS5 including several next-generation features like haptic feedback and dynamic adaptive triggers.",
+    "Brand": "Sony"
+  },
+  {
+    "ProductName": "Elden Ring",
+    "GraphicName": "Elden Ring",
+    "CostPrice": "79.99",
+    "MSRP": "79.99",
+    "QtyOnHand": "2",
+    "QtyOnBackOrder": "1",
+    "Description": "Elden Ring is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment.",
+    "Brand": "Sony"
+  },
+  {
+    "ProductName": "Spider-Man: Miles Morales",
+    "GraphicName": "Marvels Spider-Man: Miles Morales",
+    "CostPrice": "79.99",
+    "MSRP": "79.99",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "0",
+    "Description": "Marvels Spider-Man: Miles Morales is a 2020 action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+    "Brand": "Sony"
+  },
+  {
+    "ProductName": "Deathloop",
+    "GraphicName": "Deathloop",
+    "CostPrice": "79.99",
+    "MSRP": "79.99",
+    "QtyOnHand": "3",
+    "QtyOnBackOrder": "1",
+    "Description": "Deathloop is a 2021 first-person shooter video game developed by Arkane Studios and published by Bethesda Softworks.",
+    "Brand": "Sony"
+  },
+  {
+    "ProductName": "Series X",
+    "GraphicName": "Xbox Series X",
+    "CostPrice": "599.99",
+    "MSRP": "599.99",
+    "QtyOnHand": "0",
+    "QtyOnBackOrder": "3",
+    "Description": "Discover the fastest, most powerful Xbox ever with the Xbox Series X.",
+    "Brand": "Microsoft"
+  },
+  {
+    "ProductName": "Series S",
+    "GraphicName": "Xbox Series S",
+    "CostPrice": "379.99",
+    "MSRP": "379.99",
+    "QtyOnHand": "2",
+    "QtyOnBackOrder": "1",
+    "Description": "Introducing the Xbox Series S, the smallest, sleekest Xbox ever.",
+    "Brand": "Microsoft"
+  },
+  {
+    "ProductName": "Wireless Controller",
+    "GraphicName": "Xbox Wireless Controller",
+    "CostPrice": "74.99",
+    "MSRP": "74.99",
+    "QtyOnHand": "4",
+    "QtyOnBackOrder": "1",
+    "Description": "Make your gaming experience more immersive with Xbox accessories and controllers for Xbox Series X|S and Xbox One consoles, Windows, and mobile gaming.",
+    "Brand": "Microsoft"
+  },
+  {
+    "ProductName": "Halo Infinite",
+    "GraphicName": "Halo Infinite",
+    "CostPrice": "79.96",
+    "MSRP": "79.96",
+    "QtyOnHand": "1",
+    "QtyOnBackOrder": "2",
+    "Description": "Halo Infinite is a 2021 first-person shooter game developed by 343 Industries and published by Xbox Game Studios.",
+    "Brand": "Microsoft"
+  },
+  {
+    "ProductName": "Assassins Creed Valhalla",
+    "GraphicName": "Assassins Creed Valhalla",
+    "CostPrice": "79.99",
+    "MSRP": "79.99",
+    "QtyOnHand": "7",
+    "QtyOnBackOrder": "0",
+    "Description": "Assassins Creed Valhalla is a 2020 action role-playing video game developed by Ubisoft Montreal and published by Ubisoft.",
+    "Brand": "Microsoft"
+  }
+]
